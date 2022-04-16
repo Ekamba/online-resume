@@ -1,6 +1,6 @@
-[live site here:](https://ekambaportfolio.netlify.app/)
+[live site](https://ekambaportfolio.netlify.app/)
 
-![ezcv logo](https://i.ibb.co/jrmHHzz/2022-04-16-1.png)
+![logo](https://i.ibb.co/37s7F4t/a.png)
 
 This is my personal portfolio, that summarises my experiences, achievements and more... I have used React, Next.js, styled components, React-icons, and styled-normalize.
 
