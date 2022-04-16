@@ -1,4 +1,8 @@
-## [Live Here](https://ekambaportfolio.netlify.app/)
+## Axel Ekamba portfolio
+
+Please click ⭐ if you like the project. Pull request are highly appreciated ❤️.
+
+### [Live Here](https://ekambaportfolio.netlify.app/)
 
 ![logo](https://i.ibb.co/37s7F4t/a.png)
 
