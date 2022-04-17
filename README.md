@@ -4,7 +4,7 @@ Please click ‚≠ê if you like the project. Pull request are highly appreciated ‚ù
 
 ### [Live Here](https://ekambaportfolio.netlify.app/)
 
-![logo](https://i.ibb.co/37s7F4t/a.png)
+![logo](https://i.ibb.co/QPsrpPX/a.png)
 
 This is my portfolio, that summarizes my experiences, achievements, and more... I have used ReactJS and its many features, CSS3, and React-icons.
 
