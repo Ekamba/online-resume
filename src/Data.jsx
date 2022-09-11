@@ -4,18 +4,18 @@ export const projectsData = [
     image: '/assets/roomkast.png',
     title: 'Roomkast application',
     description:
-      'This application allows the user to find an apartment or room in featured areas or close to your interest points.',
+      'This is the Roomkast application I built when I was working with them. I have used ReactJS and CSS with other libraries.',
     github: 'https://github.com/Ekamba/roomkast',
     liveDemo: 'https://roomkast.netlify.app/',
   },
   {
     id: 2,
-    image: '/assets/soccer.png',
-    title: 'Soccer league Application',
+    image: '/assets/blogger.png',
+    title: 'Blogger Application',
     description:
-      'A football leagues application that shoes how to work with apis and so much more using React and his features.',
-    github: 'https://github.com/Ekamba/soccer-league',
-    liveDemo: 'https://soccer-leagues.netlify.app/',
+      'The Blogger is a blog application build using ReactJS, NodeJS, ExpressJS, MongoDB, Redux Toolkit and more.',
+    github: 'https://github.com/Ekamba/blog',
+    liveDemo: 'https://blogger-appli.herokuapp.com/',
   },
   {
     id: 3,
