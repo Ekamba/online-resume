@@ -5,6 +5,9 @@
 }
 
 .project__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   background-color: var(--bg-variant-color);
   padding: 1.2rem;
   border-radius: 2rem;
