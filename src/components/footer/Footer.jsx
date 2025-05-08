@@ -34,7 +34,7 @@ const Footer = () => {
 
       <div className="footer__socials">
         <a
-          href="https://www.facebook.com/EkambAcademy/"
+          href="https://www.facebook.com/AxelEkamba"
           target="_blank"
           rel="noopener noreferrer"
         >
